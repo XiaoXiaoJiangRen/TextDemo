@@ -181,6 +181,7 @@ public class Test04 : MonoBehaviour
                     randomIndex = Random.Range(0, totalAnimalNum);
                 } while (nums[randomIndex] == 100);
                 //animalIndex.Add(randomIndex);
+
                 animalName[randomIndex] = animaType[i];
                 nums[randomIndex] = 100;
             }
