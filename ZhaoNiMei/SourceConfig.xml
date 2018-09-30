@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodsList>
+	<GoodsInfo Id="0" Name=" " Width=" " Hight=" "/>
+	<GoodsInfo Id="1" Name="10001" Width="260" Hight="205"/>
+	<GoodsInfo Id="2" Name="10002" Width="189" Hight="131"/>
+	<GoodsInfo Id="3" Name="10003" Width="181" Hight="210"/>
+	<GoodsInfo Id="4" Name="10004" Width="190" Hight="221"/>
+	<GoodsInfo Id="5" Name="10005" Width="130" Hight="114"/>
+	<GoodsInfo Id="6" Name="10006" Width="110" Hight="102"/>
+	<GoodsInfo Id="7" Name="10007" Width="133" Hight="152"/>
+	<GoodsInfo Id="8" Name="10008" Width="160" Hight="188"/>
+	<GoodsInfo Id="9" Name="10009" Width="210" Hight="134"/>
+	<GoodsInfo Id="10" Name="10010" Width="210" Hight="203"/>
+	<GoodsInfo Id="11" Name="10011" Width="180" Hight="146"/>
+	<GoodsInfo Id="12" Name="10012" Width="184" Hight="292"/>
+	<GoodsInfo Id="13" Name="10013" Width="150" Hight="160"/>
+	<GoodsInfo Id="14" Name="10014" Width="160" Hight="155"/>
+	<GoodsInfo Id="15" Name="10015" Width="310" Hight="165"/>
+	<GoodsInfo Id="16" Name="10016" Width="110" Hight="97"/>
+	<GoodsInfo Id="17" Name="10017" Width="190" Hight="145"/>
+	<GoodsInfo Id="18" Name="10018" Width="190" Hight="197"/>
+	<GoodsInfo Id="19" Name="10019" Width="132" Hight="210"/>
+	<GoodsInfo Id="20" Name="10020" Width="160" Hight="137"/>
+	<GoodsInfo Id="21" Name="10021" Width="210" Hight="236"/>
+	<GoodsInfo Id="22" Name="10022" Width="207" Hight="222"/>
+	<GoodsInfo Id="23" Name="10023" Width="210" Hight="210"/>
+	<GoodsInfo Id="24" Name="10024" Width="110" Hight="103"/>
+	<GoodsInfo Id="25" Name="10025" Width="359" Hight="126"/>
+	<GoodsInfo Id="26" Name="10026" Width="260" Hight="173"/>
+	<GoodsInfo Id="27" Name="10027" Width="110" Hight="110"/>
+	<GoodsInfo Id="28" Name="10028" Width="130" Hight="90"/>
+	<GoodsInfo Id="29" Name="10029" Width="272" Hight="270"/>
+	<GoodsInfo Id="30" Name="10030" Width="130" Hight="130"/>
+	<GoodsInfo Id="31" Name="10031" Width="255" Hight="234"/>
+	<GoodsInfo Id="32" Name="10032" Width="210" Hight="208"/>
+	<GoodsInfo Id="33" Name="10033" Width="210" Hight="160"/>
+	<GoodsInfo Id="34" Name="10034" Width="160" Hight="155"/>
+	<GoodsInfo Id="35" Name="10035" Width="260" Hight="201"/>
+	<GoodsInfo Id="36" Name="10036" Width="190" Hight="191"/>
+	<GoodsInfo Id="37" Name="10037" Width="165" Hight="298"/>
+	<GoodsInfo Id="38" Name="10038" Width="130" Hight="84"/>
+	<GoodsInfo Id="39" Name="10039" Width="146" Hight="210"/>
+	<GoodsInfo Id="40" Name="10040" Width="210" Hight="107"/>
+	<GoodsInfo Id="41" Name="10041" Width="120" Hight="115"/>
+	<GoodsInfo Id="42" Name="10042" Width="210" Hight="173"/>
+	<GoodsInfo Id="43" Name="10043" Width="310" Hight="173"/>
+	
+	<Category Id="0" Type=" " ResId=" "/>
+                <Category Id="1" Type="Lion" ResId="31|32|33"/>
+	<Category Id="2" Type="Tiger" ResId="17|18|19"/>
+	<Category Id="3" Type="Zebra" ResId="1|2|3"/>
+	<Category Id="4" Type="Monkey" ResId="11|12|13"/>
+	
+	<LinkGameInfo Id="0" Type=" " Count=" " TotalCount=" "/>
+	<LinkGameInfo Id="1" Type="lion1|monkey1|zebra1|tiger1" Count="4|4|4|4" TotalCount="16"/>
+	<LinkGameInfo Id="2" Type="lion2|monkey2|zebra2|tiger2" Count="4|4|4|4" TotalCount="16"/>
+	<LinkGameInfo Id="3" Type="lion1|lion2|monkey1|monkey2|zebra1|zebra2|tiger1|tiger2" Count="2|2|2|2|2|2|2|2" TotalCount="16"/>
+	
+	<GameInfo Id="1" Type="40001" Time="240" Detailed="1,2|2,2|3,2|4,2"/>
+	<GameInfo Id="2" Type="40002" Time="180" Detailed="1|2|3"/>
+</GoodsList>
